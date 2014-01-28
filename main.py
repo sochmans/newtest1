@@ -1,8 +1,8 @@
 import pygame, sys       # imports pygame classes/functions/modules
 from pygame.locals import *
 
-## this is an edit to test GIT and GIThub
-## this is an edit to test GIT and GIThub - 2nd change
+## this is an edit to test GIT and GIThub - New first change.
+
 
 RED = (255, 0, 0)
 BLACK = (0,0,0)
